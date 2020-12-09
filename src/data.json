@@ -1,0 +1,50 @@
+{
+    "Jordan 1 Retro High":{
+        "name": "Jordan 1 Retro High",
+        "des":"Jordan 1 Retro High ‘Shattered Backboard’ 3.0 in orange with some rough and unique look",
+        "details":"Jordan 1 Retro High ‘Shattered Backboard’ 3.0, Jordan Brand added another iteration to the lineage of its classic ‘Shattered Backboard’ colourway. The colourway is inspired by the orange and black jersey that Michael wore, when he shattered the backboard in an exhibition game in Italy, in 1986. The design is comprised of a black and orange crinkled patent leather upper to represent the shattered glass, and the mid and outsole are in a yellow-vanilla colour this time round. Cop these now, on Resole.",
+        "price":"₹44,500",
+        "image" : "https://resoleclub.com/wp-content/uploads/2020/07/j1Hsbb1.jpg",
+        "image2":"https://resoleclub.com/wp-content/uploads/2020/07/j1Hsbb2.jpg"
+    },
+    "Jordan 1 Low ":{
+        "name":"Jordan 1 Low ",
+        "des":"Jordan 1 Low ‘Shadow’ The low top show by Jordan with a street look",
+        "details":"Jordan 1 Low ‘Shadow’The low counterpart of the Jordan 1 Retro High ‘Shadow’ released in 2018, retains the classic Jordan 1 DNA",
+        "price":"₹17,250",
+        "image":"https://resoleclub.com/wp-content/uploads/2020/07/j1shadowlow1.jpeg",
+        "image2":"https://resoleclub.com/wp-content/uploads/2020/07/j1lowshadow2.jpg"
+    },
+    "Jordan 4 Retro Travis Scott Cactus Jack":{
+        "name":"Jordan 4 Retro  ",
+        "des":"Jordan 4 Retro Travis Scott Cactus Jack SKU: Jordan4Travis Category: Jordan 4 Tags: 4, air, aj, aj4, cactus, j, j4, jack, jordan, scott, travis",
+        "details":"In recent times, big brands like Nike have been turning to Artists such as musicians, especially rappers, for collaborations. One of the most successful in recent years, at least for Nike, has been their collaboration with La Flame, Travis Scott. The Jordan 4 Cactus Jack was his first shoe with Nike, and it’s been uphill ever since. Buy / Sell the Jordan 4 Travis Scott, now, only on ResoleClub",
+        "price":"₹106,000",
+        "image":"https://resoleclub.com/wp-content/uploads/2020/08/j4tscott1.jpg",
+        "image2":"https://resoleclub.com/wp-content/uploads/2020/08/j4tscott3.jpg"
+    },
+    "Jordan 4 Retro Union Guava Ice":{
+        "name":"Jordan 4 Retro Union Guava Ice ",
+        "des":"SKU: N/A Category: Jordan 4",
+        "details":"Jordan Brand teamed up with LA based sneaker boutique, Union, for a second collaboration, this time for the Jordan 4s. And like the first time, this collab did not disappoint. Union experiments with different colours, materials, and styles. Buy / Sell the Jordan 4 Union Guava Ice colourway now, only on ResoleClub",
+        "price":"₹92,000",
+        "image":"https://resoleclub.com/wp-content/uploads/2020/10/j4unionguava1.jpg",
+        "image2":"https://resoleclub.com/wp-content/uploads/2020/10/j4unionguava2.jpg"
+    },
+    "Jordan 1 Mid ‘Camo’ (2020)":{
+        "name":"Jordan 1 Mid ‘Camo’ ",
+        "des":"Jordan 1 Mid ‘Camo’ (2020) SKU: N/A Categories: Jordan 1, Jordan 1 Mid Tags: 1, aj, aj1, camo, camouflage, j, j1, jordan, mid",
+        "details":"This iteration of the Jordan 1 comes with a Black, White, and Camo upper, white a white midsole, and black outsole. Cop now on Resole",
+        "price":"₹20,500",
+        "image":"https://resoleclub.com/wp-content/uploads/2020/08/j1midcamo1.jpeg",
+        "image2":"https://resoleclub.com/wp-content/uploads/2020/08/j1midcamo2.jpg"
+    },
+    "Jordan 12 Retro":{
+        "name":"Jordan 12 Retro ‘Black University Gold’ ",
+        "des":"SKU: N/A Category: Jordan 12 Tags: 12, aj, aj12, black university gold, gold, j, j12, jordan, retro, university",
+        "details":"The Jordan 12 in the Black University Gold colourway features a black tumbled leather upper with University Gold overlays and accents, along with Jordan “Two Three” branding on the tongue and a yellow sole. Cop these now, on Resole",
+        "price":"₹29,900",
+        "image":"https://resoleclub.com/wp-content/uploads/2020/07/j12univgold1.jpeg",
+        "image2":"https://resoleclub.com/wp-content/uploads/2020/07/j12univgold2.jpg"
+    }
+}

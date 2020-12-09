@@ -1,38 +1,67 @@
-.App {
+.header{
+  width: 1280;
+  height: 800;
+  background-image: url('./4KDr.gif');
+  background-size: cover;
+}
+.Container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.Container > .link{
+  width: 300px;
+  box-shadow: 0 0 10px black;
+  margin: 20px;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.Container > .link:hover{
+  background-color: lightblue;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.textcenter{
+  text-align: center;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.text-Color{
+  color: white;
+  margin-right: 60%;
+  font-weight: bold;
 }
+.text2{
+  margin-right: 48%;
+  color: white;
+}
+.btn{
+  margin-right: 80%;
+  background-color:darkred ;
+  color: white;
+}
+.container2{
+  background-color: black;
+  padding: 20px auto;
+}
+.Footer{
+  Color:white;
+  margin-left: 200px;
+  ;
+}
+.contact{
+  Color:white;
+  margin-left:450px;
+  margin-top: -125px;
+}
+/*.navhover{
+  background-color:white;
+  Color:black 
+}
+.navhover:hover{
+  background-color:black;
+  Color:white
+}
+.navhover > b:hover{
+  background-color:black;
+  Color:white
+}
+Button:hover{
+  background-color:white;
+  Color:black
+}*/
