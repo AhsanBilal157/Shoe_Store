@@ -55,6 +55,10 @@ export default function Home() {
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
       </div>
       <br />
       <h2 style={{ color: "black", fontWeight: "bold" }}>New Featured</h2>

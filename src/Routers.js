@@ -29,6 +29,21 @@ export default function Routers() {
             <Route path="/Products/:id">
             <Productitem />
             </Route>
+            <Route path="/Cart">
+              <hr />
+              <br />
+            <h1>  Empty Cart</h1>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            </Route>
             <Route path="*" component ={()=>"404 Not Found"}>
           </Route>
         </Switch>
